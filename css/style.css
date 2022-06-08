@@ -1,0 +1,17 @@
+html {
+    background: white;
+    max-width: 1920px;
+    max-height: 420px;
+}
+
+.main_text {
+    font-family: Open Sans;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.footer {
+
+    font-family:  Open Sans; 
+    font-style: semibold;
+}
